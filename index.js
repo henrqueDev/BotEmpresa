@@ -6,7 +6,7 @@ verify = false;
 
 fila= [];
 
-bot.login("ODYxMjYzNzE0NDI5ODI5MTMy.YOHQVw.c1QcfBVX6k5S8Z-jJTp8TYpUFTc");
+bot.login("");
 bot.once('ready',() => {
   console.log(`Bot online: ${bot.user.tag}!!`)
 });
